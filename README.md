@@ -373,7 +373,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**[Your Name]**
+**HAFIZ MUHAMMZAD HUZAIFA**
 Aspiring Data Scientist / Data Analyst
 
 - 🔗 GitHub: [github.com/your-username](https://github.com/your-username)

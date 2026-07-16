@@ -376,9 +376,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 **HAFIZ MUHAMMZAD HUZAIFA**
 Aspiring Data Scientist / Data Analyst
 
-- 🔗 GitHub: [github.com/your-username](https://github.com/your-username)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 📧 Contact: your.email@example.com
+- 🔗 GitHub: [github.com/HuzaifaAIDev](https://github.com/HuzaifaAIDev)
+- 📧 Contact: muhammadhuzaifawd1st@gmail.com
 
 ## 🙏 Acknowledgements
 
